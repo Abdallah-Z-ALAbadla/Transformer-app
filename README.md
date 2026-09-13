@@ -2,8 +2,7 @@
 
 ## التشغيل محلياً (الأسهل والأنسب لهذا المشروع)
 ```bash
-pip install -r requirements.txt
-streamlit run app.py
+py -m streamlit run app.py
 ```
 سيفتح المتصفح تلقائياً على الرابط المحلي.
 
